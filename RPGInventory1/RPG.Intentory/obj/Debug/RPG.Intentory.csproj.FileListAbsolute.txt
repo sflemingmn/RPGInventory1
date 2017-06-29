@@ -1,0 +1,14 @@
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\RPG.Intentory\RPG.Intentory\bin\Debug\RPG.Intentory.dll
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\RPG.Intentory\RPG.Intentory\bin\Debug\RPG.Intentory.pdb
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\RPG.Intentory\RPG.Intentory\bin\Debug\nunit.framework.dll
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\RPG.Intentory\RPG.Intentory\bin\Debug\nunit.framework.xml
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\RPG.Intentory\RPG.Intentory\obj\Debug\RPG.Intentory.csprojResolveAssemblyReference.cache
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\RPG.Intentory\RPG.Intentory\obj\Debug\RPG.Intentory.dll
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\RPG.Intentory\RPG.Intentory\obj\Debug\RPG.Intentory.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\RPGIntentory\RPG.Intentory\obj\Debug\RPG.Intentory.csprojResolveAssemblyReference.cache
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\RPGIntentory\RPG.Intentory\obj\Debug\RPG.Intentory.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\RPGIntentory\RPG.Intentory\obj\Debug\RPG.Intentory.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\RPGIntentory\RPG.Intentory\bin\Debug\RPG.Intentory.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\RPGIntentory\RPG.Intentory\bin\Debug\RPG.Intentory.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\RPGIntentory\RPG.Intentory\bin\Debug\nunit.framework.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\RPGIntentory\RPG.Intentory\bin\Debug\nunit.framework.xml
